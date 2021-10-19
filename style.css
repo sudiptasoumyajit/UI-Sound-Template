@@ -1,0 +1,49 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: #7c88f8;
+}
+.header_div{
+    background: white;
+    color: #7c88f8;
+    margin-bottom: 5px;
+}
+.header_div p{
+    font-family: monospace;
+    color: #000000;
+    letter-spacing: 5px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+#btn{
+    border-radius: 100px;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main_div{
+    padding: 20px;
+}
+.main_div p{
+    font-size: 20px;
+    letter-spacing: 20px;
+    font-variant: initial;
+}
+.main_div img{
+    border-radius: 20px;
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 50px;
+}
+.copy_right_footer{
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    color: #7c88f8;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-shadow: 2px 5px 5px;
+}
