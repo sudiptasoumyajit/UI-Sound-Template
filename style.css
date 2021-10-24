@@ -30,6 +30,8 @@ body{
     font-variant: initial;
 }
 .main_div img{
+    margin-top: 5px;
+    margin-bottom: 5px;
     border-radius: 20px;
     border: solid;
     border-color: black;
